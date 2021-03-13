@@ -6,7 +6,7 @@
 
 ## Demo
 
-![alt text](img/gi.gif)
+![alt text](img/gi2.gif)
 
 
 ### First part detect Hand:
