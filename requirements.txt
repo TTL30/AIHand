@@ -24,7 +24,6 @@ prompt-toolkit==3.0.8
 protobuf==3.13.0
 Pygments==2.7.2
 python-dateutil==2.8.1
-pywin32==228
 PyYAML==5.3.1
 pyzmq==19.0.2
 scipy==1.5.4
